@@ -8,9 +8,9 @@ import (
 
 	// 导入所有组件以进行注册
 	// 使用空导入 "_" 是因为我们只需要组件的 init() 函数来注册自己
-	_ "github.com/p4gefau1t/trojan-go/component"
-	"github.com/p4gefau1t/trojan-go/log"
-	"github.com/p4gefau1t/trojan-go/option"
+	_ "github.com/mzxk/trojan-go/component"
+	"github.com/mzxk/trojan-go/log"
+	"github.com/mzxk/trojan-go/option"
 )
 
 // main 函数是 Trojan-Go 的入口点

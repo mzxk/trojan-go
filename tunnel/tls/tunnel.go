@@ -3,7 +3,7 @@ package tls
 import (
 	"context"
 
-	"github.com/p4gefau1t/trojan-go/tunnel"
+	"github.com/mzxk/trojan-go/tunnel"
 )
 
 const Name = "TLS"

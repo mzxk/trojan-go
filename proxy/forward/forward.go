@@ -3,11 +3,11 @@ package forward
 import (
 	"context"
 
-	"github.com/p4gefau1t/trojan-go/config"
-	"github.com/p4gefau1t/trojan-go/proxy"
-	"github.com/p4gefau1t/trojan-go/proxy/client"
-	"github.com/p4gefau1t/trojan-go/tunnel"
-	"github.com/p4gefau1t/trojan-go/tunnel/dokodemo"
+	"github.com/mzxk/trojan-go/config"
+	"github.com/mzxk/trojan-go/proxy"
+	"github.com/mzxk/trojan-go/proxy/client"
+	"github.com/mzxk/trojan-go/tunnel"
+	"github.com/mzxk/trojan-go/tunnel/dokodemo"
 )
 
 const Name = "FORWARD"

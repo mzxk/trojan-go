@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/net/websocket"
 
-	"github.com/p4gefau1t/trojan-go/common"
-	"github.com/p4gefau1t/trojan-go/log"
+	"github.com/mzxk/trojan-go/common"
+	"github.com/mzxk/trojan-go/log"
 )
 
 var (

@@ -8,7 +8,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/p4gefau1t/trojan-go/common"
+	"github.com/mzxk/trojan-go/common"
 )
 
 // Conn 是隧道中的 TCP 连接接口

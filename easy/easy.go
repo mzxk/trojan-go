@@ -6,10 +6,10 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/p4gefau1t/trojan-go/common"
-	"github.com/p4gefau1t/trojan-go/log"
-	"github.com/p4gefau1t/trojan-go/option"
-	"github.com/p4gefau1t/trojan-go/proxy"
+	"github.com/mzxk/trojan-go/common"
+	"github.com/mzxk/trojan-go/log"
+	"github.com/mzxk/trojan-go/option"
+	"github.com/mzxk/trojan-go/proxy"
 )
 
 type easy struct {

@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/p4gefau1t/trojan-go/common"
-	"github.com/p4gefau1t/trojan-go/config"
-	"github.com/p4gefau1t/trojan-go/log"
-	"github.com/p4gefau1t/trojan-go/tunnel"
+	"github.com/mzxk/trojan-go/common"
+	"github.com/mzxk/trojan-go/config"
+	"github.com/mzxk/trojan-go/log"
+	"github.com/mzxk/trojan-go/tunnel"
 )
 
 type Server struct {

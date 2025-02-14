@@ -3,9 +3,9 @@ package simplesocks
 import (
 	"bytes"
 
-	"github.com/p4gefau1t/trojan-go/common"
-	"github.com/p4gefau1t/trojan-go/tunnel"
-	"github.com/p4gefau1t/trojan-go/tunnel/trojan"
+	"github.com/mzxk/trojan-go/common"
+	"github.com/mzxk/trojan-go/tunnel"
+	"github.com/mzxk/trojan-go/tunnel/trojan"
 )
 
 // Conn is a simplesocks connection
